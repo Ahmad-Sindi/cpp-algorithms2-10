@@ -8,6 +8,7 @@ Normally, digits extracted mathematically come out reversed.
 To solve this, the algorithm:
 
 1️⃣ Reverses the number
+
 2️⃣ Prints its digits (which restores the original order)
 
 💡 What You’ll Learn
